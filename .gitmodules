@@ -1,0 +1,3 @@
+[submodule "themes/icarus"]
+	path = themes/hugo-icarus
+	url = https://gitlab.com/toryanderson/hugo-icarus.git
