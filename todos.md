@@ -21,5 +21,9 @@
 
 # Donate
 
+* Remove header
+* Remove side panel
+* Remove newer/older
 * Add Monero, Pirate Chain Wallet addresses
 * Add Stripe donation
+

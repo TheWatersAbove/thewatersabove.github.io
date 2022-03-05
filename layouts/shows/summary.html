@@ -14,21 +14,17 @@
         </div>
         <div class="archive-article-header">
             <h1 itemprop="name">
-            <a class="archive-article-title" href="{{ .Permalink }}">{{ .Title }}</a>
+            <a class="archive-article-title" href="{{ .Permalink }}">
+              {{ .Params.location }}
+            </a>
             </h1>
 
             <div>
-            {{ .Params.Location }}
-            </div>
-
-
-            <div>
-            {{ .Params.ShowDate }}
+            {{ .Title }}
             </div>
         </div>
 
-
-        <div class="archive-article-date">
+        <div class="show-summary-date">
           <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time>
         </div>
 
