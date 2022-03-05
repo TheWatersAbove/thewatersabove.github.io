@@ -1,6 +1,6 @@
 ---
 title: "The Tiny Dot"
-date: 2022-03-04T15:52:24-07:00
+date: 2022-03-01T15:52:24-07:00
 composer: David Y. Kay
 lyricist: David Y. Kay
 blurb: 99.9% of people are being brainwashed and extorted by a tiny fraction of the population.
