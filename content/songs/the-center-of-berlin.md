@@ -1,9 +1,10 @@
 ---
 title: "The Center of Berlin"
 date: 2022-03-04T16:08:26-07:00
+blurb: A commemoration of the 2020 "Tag der Freiheit" ("Day of Freedom") protest, which drew 1.3 million participants.
 composer: Irish Traditional
 lyricist: David Y. Kay
-draft: true
+draft: false
 ---
 
 Come tell me Saleh-zaki, oh why are you so proud?  

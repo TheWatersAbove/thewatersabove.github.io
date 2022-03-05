@@ -3,7 +3,8 @@ title: "False Flag"
 date: 2022-03-04T16:08:19-07:00
 composer: David Y. Kay
 lyricist: David Y. Kay
-draft: true
+blurb: A warning that governments are no stranger to shedding the blood of their own people.
+draft: false
 ---
 
 ## Verse 1

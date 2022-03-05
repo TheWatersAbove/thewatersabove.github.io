@@ -1,10 +1,8 @@
 .archive-article-inner {
   padding: 10px;
   display: table;
-}
-
-.archive-article-header {
-  float: right;
+  position: relative;
+  width: 95%;
 }
 
 .song-data-icons {
@@ -15,4 +13,13 @@
 .song-data-icon {
   font-size: 1.8em;
   padding: 10px 10px 2px 10px;
+}
+
+.archive-article-date {
+  font-size: 0.8em;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 0px 2px 6px 0px;
+  color: gray;
 }

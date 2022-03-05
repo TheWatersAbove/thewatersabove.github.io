@@ -3,7 +3,8 @@ title: "Dont Watch the News"
 date: 2022-03-04T15:52:31-07:00
 composer: David Y. Kay
 lyricist: David Y. Kay
-draft: true
+blurb: The media lies, even in so-called "western democracies."
+draft: false
 ---
 
 ## Chorus

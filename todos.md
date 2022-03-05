@@ -1,5 +1,6 @@
 # Song List
 
+* Beautify the timestamp
 * Show visual indicator of music video
 * Show visual indicator of music 
 * Show visual indicator of lyrics

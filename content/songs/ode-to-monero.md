@@ -1,9 +1,10 @@
 ---
 title: "Ode to Monero"
 date: 2022-03-04T16:08:30-07:00
+blurb: An ode to the preferred currency of the black market.
 composer: David Y. Kay
 lyricist: David Y. Kay
-draft: true
+draft: false
 ---
 
 ## Verse 1 - China
