@@ -1,6 +1,6 @@
 # Song List
 
-* Don't show publication date
+* Improve indentation
 * Show visual indicator of music video
 * Show visual indicator of music 
 * Show visual indicator of lyrics
@@ -10,7 +10,6 @@
 * Beautiful header
 * Add images to each song
 * Remove Recent Posts Panel
-* Alternate view with ChordPro
 
 # Home
 
@@ -22,17 +21,13 @@
 * Favicon
 * Use Logo in top header
 * Create Square Logo
-* Change search
+* Change search to DuckDuckGo
+* Change Image - Gamma Dropdown
 
 # Blog List
 
 * Improve indentation
 
-# Blog Detail
+# Donate
 
-* Improve font
-
-# Shows Page
-
-* Data-based
-* Moves from future to past based on date
+* Add Monero, Pirate Chain Wallet addresses

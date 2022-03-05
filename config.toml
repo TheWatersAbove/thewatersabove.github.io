@@ -20,7 +20,7 @@ theme = "hugo-icarus"
     bio = "Freeing your mind through music"
     location = "Bigfork, Montana"
     site_description = "Free Your Mind"
-    copyright  = "Copyright The Waters Above 2022"
+    copyright  = "The Waters Above"
     avatar = "css/images/avatar.png"
     #avatar = "resources/img/waters-above-logo.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
@@ -38,7 +38,7 @@ theme = "hugo-icarus"
     date_format = "2006-01-02"
 
     # Add custom assets with their paths relative to the static folder
-	custom_css = ["css/style.css"]
+	custom_css = ["css/thewatersabove.css"]
 	custom_js  = []
 
 # Create custom menu entries by defining a label and a link for
@@ -69,8 +69,18 @@ theme = "hugo-icarus"
 
 [[params.menu]]
     before = false
+    label  = "Donate"
+    link   = "donate/"
+
+[[params.menu]]
+    before = false
     label  = "Store"
     link   = "store/"
+
+[[params.menu]]
+    before = false
+    label  = "Contact"
+    link   = "contact/"
 
 [social]
 # Add your social network accounts to the profile section on the left
