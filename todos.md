@@ -18,10 +18,10 @@
 
 # Main Template
 
+* Avatar Icon
 * Favicon
-* Use Logo in top header
-* Create Square Logo
-* Change search to DuckDuckGo
+* Improve Main Logo
+* Create Top-left logo
 * Change Image - Gamma Dropdown
 
 # Blog List

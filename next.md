@@ -3,10 +3,6 @@
 * Data-based
 * Moves from future to past based on date
 
-# Blog Detail
-
-* Improve font
-
 # Songbook
 
 * Alternate view with ChordPro
@@ -18,3 +14,6 @@
 * Find vendors
 * Patreon?
 
+# Domain
+
+* Use real domain name
