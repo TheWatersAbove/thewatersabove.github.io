@@ -5,6 +5,14 @@
   width: 95%;
 }
 
+.show-summary-date {
+  font-size: 1.2em;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 15px 2px 0px 0px;
+}
+
 .archive-article-date {
   font-size: 0.8em;
   position: absolute;
