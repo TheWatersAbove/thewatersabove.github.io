@@ -21,13 +21,13 @@ theme = "hugo-icarus"
     location = "Bigfork, Montana"
     site_description = "Free Your Mind"
     copyright  = "The Waters Above"
-    avatar = "css/images/avatar.png"
+    avatar = "images/waters-above-square-2.svg"
     #avatar = "resources/img/waters-above-logo.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
     gravatar = "thewatersabove@protonmail.com"
     #logo = "css/images/logo.png"
-    logo = "images/logo.png"
+    logo = "images/waters-above-logo-3-framed-transparent.png"
     #logo = "resources/img/waters-above-logo.png"
     disable_mathjax = false # set to true to disable MathJax
 
@@ -47,6 +47,7 @@ theme = "hugo-icarus"
 #
 # E.g.: "Home" appears before all linked posts in the menu
 # and "Tags" / "Categories" after them.
+
 [[params.menu]]
     before = true
     label  = "Home"
