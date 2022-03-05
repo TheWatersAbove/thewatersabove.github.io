@@ -1,3 +1,18 @@
 .archive-article-inner {
   padding: 10px;
+  display: table;
+}
+
+.archive-article-header {
+  float: right;
+}
+
+.song-data-icons {
+  text-align: center;
+  width: 200px;
+}
+
+.song-data-icon {
+  font-size: 1.8em;
+  padding: 10px 10px 2px 10px;
 }
