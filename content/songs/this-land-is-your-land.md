@@ -1,6 +1,8 @@
 ---
 title: "This Land Is Your Land (Agenda 21 Edition)"
 date: 2022-03-04T15:59:07-07:00
+composer: Woody Guthrie
+lyricist: David Y. Kay
 draft: false
 ---
 

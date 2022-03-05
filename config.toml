@@ -53,7 +53,12 @@ theme = "hugo-icarus"
 
 [[params.menu]]
     before = false
-    label  = "Music"
+    label  = "Blog"
+    link   = "blog/"
+
+[[params.menu]]
+    before = false
+    label  = "Songs"
     link   = "songs/"
 
 [[params.menu]]
