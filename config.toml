@@ -60,12 +60,12 @@ theme = "hugo-icarus"
 
 [[params.menu]]
     before = false
-    label  = "Songs"
+    label  = "Music"
     link   = "songs/"
 
 [[params.menu]]
     before = false
-    label  = "Shows"
+    label  = "Tour"
     link   = "shows/"
 
 [[params.menu]]
@@ -73,10 +73,10 @@ theme = "hugo-icarus"
     label  = "Donate"
     link   = "donate/"
 
-[[params.menu]]
-    before = false
-    label  = "Store"
-    link   = "store/"
+# [[params.menu]]
+#     before = false
+#     label  = "Store"
+#     link   = "store/"
 
 [[params.menu]]
     before = false

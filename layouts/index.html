@@ -1,0 +1,30 @@
+{{ partial "head" . }}
+
+<div id="container">
+	{{ partialCached "header" . }}
+
+   	<div class="outer">
+   	{{ if not .Params.disable_profile }}
+    	{{ partialCached "profile" . }}
+    {{ end }}
+
+    <section id="main">
+      {{ block "main" . }}{{ end }}
+
+      <img src="//via.placeholder.com/800x400" />
+      <!--https://via.placeholder.com/350x150-->
+
+      <div class="landing-page-caption">
+        Stand resolute in the face of tyranny.
+      </div>
+
+
+    </section>
+
+
+	</div>
+</div>
+
+{{ partialCached "footer" . }}
+</body>
+</html>
