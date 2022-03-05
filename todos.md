@@ -1,6 +1,5 @@
 # Song List
 
-* Improve indentation
 * Show visual indicator of music video
 * Show visual indicator of music 
 * Show visual indicator of lyrics
