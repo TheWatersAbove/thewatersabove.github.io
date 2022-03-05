@@ -1,8 +1,16 @@
+# CSS
+
+* Move to Zurb Foundation
+
 # Home
 
-* Design landing page
-* Implement landing page
-* Change "Follow" button social account
+* Beautify CTA Buttons
+* Overhaul left panel
+* Photoshoot for main picture
+
+# About
+
+* Add placeholder "about" page
 
 # Song Detail
 
@@ -12,6 +20,7 @@
 # Main Template
 
 * Favicon
+* Move Social media to Footer
 * Change Image - Gamma Dropdown
 
 # Blog List

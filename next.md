@@ -4,6 +4,7 @@
 
 # Shows Page
 
+* Add to Calendar
 * Redesign gig list item
 * Moves from future to past based on date
 * Show a map
