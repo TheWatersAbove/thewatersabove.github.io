@@ -12,9 +12,15 @@
             {{ end }}
 
             <div class="song-data-icons">
+
               <i class="song-data-icon fa fa-file-text-o"></i>
+              {{ if .Params.hasAudio }}
               <i class="song-data-icon fa fa-music"></i>
-              <i class="song-data-icon fa fa-video-camera"></i>
+              {{ end }}
+
+              {{ if .Params.VideoUrl }}
+                <i class="song-data-icon fa fa-video-camera"></i>
+              {{ end }}
             </div>
 
         </div>

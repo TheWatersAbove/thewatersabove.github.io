@@ -1,7 +1,6 @@
 # Song List
 
 * Remove left panel
-* Drive video / music / lyric indicators with real data.
 * Change default thumbnail
 
 # CSS
