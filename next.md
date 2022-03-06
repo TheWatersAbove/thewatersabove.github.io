@@ -1,3 +1,8 @@
+# About
+
+* Revise the about text
+* Remove the header
+
 # Contact
 
 * Remove newer/older
@@ -10,11 +15,6 @@
 * Show a map
 * Change default thumbnail
 
-# Song List
-
-* Remove left panel
-* Drive video / music / lyric indicators with real data.
-* Change default thumbnail
 
 # Songbook
 

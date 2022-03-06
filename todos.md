@@ -1,3 +1,14 @@
+# Song List
+
+* Remove left panel
+* Drive video / music / lyric indicators with real data.
+* Change default thumbnail
+
+# About
+
+* Revise the about text
+* Remove the header
+
 # CSS
 
 * Move to Zurb Foundation
@@ -25,7 +36,7 @@
 
 # Blog List
 
-* Improve indentation
+* Add a summary blurb
 * Change default thumbnail
 
 # Donate
