@@ -4,11 +4,6 @@
 * Drive video / music / lyric indicators with real data.
 * Change default thumbnail
 
-# About
-
-* Revise the about text
-* Remove the header
-
 # CSS
 
 * Move to Zurb Foundation
