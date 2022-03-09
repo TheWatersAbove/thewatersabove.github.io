@@ -1,8 +1,3 @@
-# Song List
-
-* Remove left panel
-* Change default thumbnail
-
 # CSS
 
 * Move to Zurb Foundation
@@ -13,17 +8,16 @@
 * Overhaul left panel
 * Photoshoot for main picture
 
-# About
-
-* Add placeholder "about" page
-
 # Song Detail
 
+* Link to video
+* Link to audio
 * Beautiful header
 * Add images to each song
 
 # Main Template
 
+* Remove Google Plus from Share
 * Favicon
 * Move Social media to Footer
 * Change Image - Gamma Dropdown

@@ -17,7 +17,7 @@ theme = "hugo-icarus"
 [params]
     # Tell me who you are
     author = "The Waters Above"
-    bio = "Freeing your mind through music"
+    bio = "Enlightening the world through music"
     location = "Bigfork, Montana"
     site_description = "Free Your Mind"
     copyright  = "The Waters Above"
@@ -73,8 +73,8 @@ theme = "hugo-icarus"
 
 [[params.menu]]
     before = false
-    label  = "Donate"
-    link   = "donate/"
+    label  = "Contribute"
+    link   = "contribute/"
 
 # [[params.menu]]
 #     before = false

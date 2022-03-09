@@ -1,7 +1,24 @@
+## Social Proof
+
+"The Waters Above is one of the most important bands of our time."
+
+- Sherron
+
+"I know I can count on The Waters Above to always play from the heart and have some of the most provacative, apt lyrics around."
+
+- Jessica
+- Kari
+
+
 # About
 
 * Revise the about text
 * Remove the header
+
+# Song List
+
+* Remove left panel
+* Change default thumbnail
 
 # Contact
 
@@ -14,7 +31,6 @@
 * Moves from future to past based on date
 * Show a map
 * Change default thumbnail
-
 
 # Songbook
 
@@ -38,3 +54,5 @@
 # Music Stores
 
 iTunes, Apple Music, YouTube Art Tracks, Amazon Music, Google Play, Deezer, Groove, iHeartRadio, Napster, Simfy Africa, MediaNet, VerveLife, Tidal, Gracenote, Shazam, 7Digital, Juke, Slacker, KKBox, Akazoo, Anghami, Spinlet, Neurotic Media, Yandex, Target Music, ClaroMusica, Zvooq, Saavn, NMusic, 8tracks, Q.Sic, Musicload, Kuack, Pandora, Boomplay Music
+
+
