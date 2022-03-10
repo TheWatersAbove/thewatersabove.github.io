@@ -4,33 +4,42 @@
 	{{ partialCached "header" . }}
 
    	<div class="outer">
-   	{{ if not .Params.disable_profile }}
+
+      {{ if not .Params.disable_profile }}
     	{{ partialCached "profile" . }}
     {{ end }}
 
     <section id="main">
       {{ block "main" . }}{{ end }}
 
-      <img src="//via.placeholder.com/800x400" />
-      <!--https://via.placeholder.com/350x150-->
+      <img
+        width="900px"
+        src="/images/tankman.jpg" />
 
-      <div class="landing-page-caption">
-        Stand resolute in the face of tyranny.
+
+      <div class="center">
+        <div class="landing-page-caption">
+          Rise above tyranny.
+        </div>
+        <div>
+          <a href="/contribute/">
+            <button class="button button-landing button-primary"
+                    href="/contribute/"
+                    >
+                    Join the Cause
+            </button>
+          </a>
+        </div>
+
+        <div>
+          <a href="/about/">
+            <button class="button button-landing button-secondary">
+              Learn More
+            </button>
+          </a>
+        </div>
+
       </div>
-
-      <div>
-        <a href="/contribute/">
-          <button class="button button-primary">
-            Join the Cause
-          </button>
-        </a>
-      </div>
-
-      <a href="/about/">
-        <button class="button button-secondary">
-          Learn More
-        </button>
-      </a>
 
     </section>
 

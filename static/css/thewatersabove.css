@@ -47,6 +47,11 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  cursor: pointer;
+}
+
+.button-landing {
+  width: 200px;
 }
 
 .button-primary {
@@ -61,8 +66,6 @@
 #FF6978
 #6D435A
 */
-
-
 
 .button-secondary {
   background-color: #38A3A5;

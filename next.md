@@ -1,3 +1,27 @@
+# Home
+
+* Photoshoot for main picture
+
+# Main Template
+
+* Make Header Title stronger than h2
+* Remove Google Plus from Share
+* Move Social media to Footer
+
+# Song Detail
+
+* Beautiful header
+* Add images to each song
+
+# CSS
+
+* Move to Zurb Foundation
+
+# Donate
+
+* Remove side panel
+* Remove newer/older
+
 ## Social Proof
 
 "The Waters Above is one of the most important bands of our time."
@@ -18,7 +42,6 @@
 # Song List
 
 * Remove left panel
-* Change default thumbnail
 
 # Contact
 
@@ -47,9 +70,9 @@
 
 * Use Logo on Youtube
 
-# Domain
 
-* Use real domain name
+# Main Template
+* Favicon
 
 # Music Stores
 
