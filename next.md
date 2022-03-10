@@ -7,6 +7,10 @@
 * Add a summary blurb
 * Change default thumbnail
 
+# Blog Detail
+
+* Add older/newer to footer
+
 # Home
 
 * Shrink JPG

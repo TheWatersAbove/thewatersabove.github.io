@@ -105,7 +105,7 @@ Time is getting short, future windows will be naught.
 Heed and listen up because this is our shot:  
 To throw the shackles off and discard The Tiny Dot.  
 
-## Verse 8 - Military / Spooks
+## Verse 8 - Non-violent Solution
 
 Though I speak of violence, that path is fraught, with  
 Heart-break and mis-ery -- put down the garotte!  
