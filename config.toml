@@ -121,7 +121,7 @@ theme = "hugo-icarus"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/gohugoio"
+    follow_button = "/contribute/"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
