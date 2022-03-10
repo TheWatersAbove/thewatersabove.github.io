@@ -5,6 +5,7 @@ composer: David Y. Kay
 lyricist: David Y. Kay
 blurb: 99.9% of people are being brainwashed and extorted by a tiny fraction of the population.
 videoUrl: https://youtu.be/ubD7Q_TmQQI
+youtubeId: ubD7Q_TmQQI
 hasAudio: true
 draft: false
 ---
