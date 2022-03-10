@@ -26,7 +26,8 @@
   font-size: 1.8em;
   font-weight: bold;
   text-align: center;
-  width: 800px;
+  margin-bottom: 25px;
+  margin-top: 10px;
 }
 
 .song-data-icons {
@@ -47,6 +48,11 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  cursor: pointer;
+}
+
+.button-landing {
+  width: 200px;
 }
 
 .button-primary {
@@ -62,8 +68,24 @@
 #6D435A
 */
 
-
-
 .button-secondary {
   background-color: #38A3A5;
+}
+
+.header-logo {
+  height: 45px;
+}
+
+.header-inner .outer {
+  height: 65px;
+}
+
+#nav-logo {
+  height: 45px;
+  width: 200px;
+  display: inline;
+}
+
+.landing-image {
+  width: "900px";
 }
