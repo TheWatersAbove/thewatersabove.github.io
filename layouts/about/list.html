@@ -1,4 +1,12 @@
 {{ define "main" }}
     {{ $context := . }}
     {{ partial "text_content_page.html" $context }}
+
+    <a href="/songs/">
+      <button class="button button-landing button-primary"
+              href="/songs/"
+              >
+              Hear the Music
+      </button>
+    </a>
 {{ end }}

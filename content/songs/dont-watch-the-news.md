@@ -1,5 +1,5 @@
 ---
-title: "Dont Watch the News"
+title: "Don't Watch the News"
 date: 2021-12-04T15:52:31-07:00
 composer: David Y. Kay
 lyricist: David Y. Kay

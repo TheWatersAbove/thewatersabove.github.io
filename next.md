@@ -9,6 +9,7 @@
 
 # Home
 
+* Shrink JPG
 * Responsive nav bar
 * Photoshoot for main picture
 * Overhaul left panel
@@ -21,6 +22,7 @@
 
 # Song Detail
 
+* Share button - permalink
 * Link to audio
 * Beautiful header
 * Add images to each song
