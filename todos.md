@@ -1,11 +1,10 @@
+# Home
+
+* Fix footer
+
 # Domain
 
 * Use real domain name
-
-# Home
-
-* Beautify CTA Buttons
-* Overhaul left panel
 
 # Song Detail
 

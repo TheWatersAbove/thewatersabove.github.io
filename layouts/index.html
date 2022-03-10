@@ -3,25 +3,25 @@
 <div id="container">
 	{{ partialCached "header" . }}
 
-   	<div class="outer">
-
-      {{ if not .Params.disable_profile }}
-    	{{ partialCached "profile" . }}
+  <div class="outer">
+    {{ if not .Params.disable_profile }}
+    {{ partialCached "profile" . }}
     {{ end }}
 
     <section id="main">
-      {{ block "main" . }}{{ end }}
 
-      <img
-        width="900px"
-        src="/images/tankman.jpg" />
+      <div class="grid-x">
+        <div class="cell">
+          <img
+            src="/images/tankman.jpg" />
+        </div>
 
-
-      <div class="center">
-        <div class="landing-page-caption">
+        <div class="cell landing-page-caption">
           Rise above tyranny.
         </div>
-        <div>
+
+         <div class="cell small-4"></div>
+         <div class="cell small-4">
           <a href="/contribute/">
             <button class="button button-landing button-primary"
                     href="/contribute/"
@@ -29,22 +29,23 @@
                     Join the Cause
             </button>
           </a>
-        </div>
 
-        <div>
+         </div>
+         <div class="cell small-4"></div>
+         <div class="cell small-4"></div>
+         <div class="cell small-4">
           <a href="/about/">
             <button class="button button-landing button-secondary">
               Learn More
             </button>
           </a>
-        </div>
-
+         </div>
+         <div class="cell small-4"></div>
       </div>
 
     </section>
 
-
-	</div>
+  </div>
 </div>
 
 {{ partialCached "footer" . }}

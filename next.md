@@ -1,6 +1,7 @@
 # Home
 
 * Photoshoot for main picture
+* Overhaul left panel
 
 # Main Template
 
