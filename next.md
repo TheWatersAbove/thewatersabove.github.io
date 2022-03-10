@@ -1,5 +1,15 @@
+# Song List
+
+* Change default thumbnail
+
+# Blog List
+
+* Add a summary blurb
+* Change default thumbnail
+
 # Home
 
+* Responsive nav bar
 * Photoshoot for main picture
 * Overhaul left panel
 
@@ -11,6 +21,7 @@
 
 # Song Detail
 
+* Link to audio
 * Beautiful header
 * Add images to each song
 
