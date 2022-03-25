@@ -21,14 +21,14 @@ from the founding of the Fed.
 
 ## Chorus
 
-False Flag (AG)  
-We spill blood and point the blame (A-F arpeggio)  
-False Flag (BG)  
-Psychopaths have no shame (EGABGA)  
-False Flag (AG)  
-Can you believe  (BDBE)  
-False Flag (GF)  
-Millions are deceived (FCAGE)  
+False Flag 
+We spill blood and point the blame 
+False Flag 
+Psychopaths have no shame 
+False Flag 
+Can you believe  
+False Flag 
+Millions are deceived 
 
 ## Verse 2
 
