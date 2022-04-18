@@ -4,6 +4,8 @@ date: 2021-12-04T15:52:31-07:00
 composer: David Y. Kay
 lyricist: David Y. Kay
 blurb: The media lies, even in so-called "western democracies."
+soundCloudTrackId: 1243382440
+soundCloudUrl: https://soundcloud.com/user-588674773/dont-watch-the-news
 draft: false
 ---
 

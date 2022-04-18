@@ -2,6 +2,14 @@
 
 * Change default thumbnail
 
+# Song Detail
+
+* Use first-party MP3 player
+* Share button - permalink
+* Beautiful header
+* Add images to each song
+
+
 # Blog List
 
 * Add a summary blurb
@@ -24,12 +32,6 @@
 * Remove Google Plus from Share
 * Move Social media to Footer
 
-# Song Detail
-
-* Share button - permalink
-* Link to audio
-* Beautiful header
-* Add images to each song
 
 # CSS
 
