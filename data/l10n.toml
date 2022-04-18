@@ -18,7 +18,7 @@
     next = "Next"
 
 [profile]
-    follow_button = "Contribute"
+    follow_button = "Join Newsletter"
     tags = "Tags"
     posts = "Posts"
 
