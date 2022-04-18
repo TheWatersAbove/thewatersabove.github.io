@@ -1,3 +1,7 @@
+# Core
+
+* One button deploy, no fiddling
+
 # Song List
 
 * Change default thumbnail
@@ -8,7 +12,6 @@
 * Share button - permalink
 * Beautiful header
 * Add images to each song
-
 
 # Blog List
 
