@@ -1,9 +1,6 @@
-# Mailing List
-
-* Add mailing list sign-up
-
 # Core
 
+* Font Awesome glitch
 * Favicon
 * Overhaul logo
-
+* Mobile-friendly layout
