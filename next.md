@@ -1,17 +1,15 @@
 # Core
 
-* One button deploy, no fiddling
-
 # Song List
 
 * Change default thumbnail
 
 # Song Detail
 
-* Use first-party MP3 player
+* Add images to each song
 * Share button - permalink
 * Beautiful header
-* Add images to each song
+* Use first-party MP3 player
 
 # Blog List
 
@@ -34,7 +32,6 @@
 * Make Header Title stronger than h2
 * Remove Google Plus from Share
 * Move Social media to Footer
-
 
 # CSS
 
@@ -93,12 +90,9 @@
 
 * Use Logo on Youtube
 
-
-# Main Template
-* Favicon
-
 # Music Stores
 
 iTunes, Apple Music, YouTube Art Tracks, Amazon Music, Google Play, Deezer, Groove, iHeartRadio, Napster, Simfy Africa, MediaNet, VerveLife, Tidal, Gracenote, Shazam, 7Digital, Juke, Slacker, KKBox, Akazoo, Anghami, Spinlet, Neurotic Media, Yandex, Target Music, ClaroMusica, Zvooq, Saavn, NMusic, 8tracks, Q.Sic, Musicload, Kuack, Pandora, Boomplay Music
 
 
+* Analytics
