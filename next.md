@@ -7,7 +7,9 @@
 # Song Detail
 
 * Add images to each song
-* Share button - permalink
+* Lyric Annotations
+* Share: Remove Google Plus
+* Share: Pre-populate the body
 * Beautiful header
 * Use first-party MP3 player
 

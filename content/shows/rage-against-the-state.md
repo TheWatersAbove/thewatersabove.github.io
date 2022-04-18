@@ -6,8 +6,12 @@ location: Bozeman, MT
 draft: false
 ---
 
-[Rage Against the State](http://rageagainstthestate.com/) is a freedom-themed festival in and around Livingston, MT in early July.
+[Rage Against the State](http://rageagainstthestate.com/) is a freedom-themed festival in Bozeman, MT organized by Roger Roots, nationally recognized attorney and prominent Montana libertarian.
+
+The event will include literature, music, comedy, and lectures. If you lean towards libertarianism, anarcho-capitalism, or your friends call you a "conspiracy theorist," you will be right at home.
+
+Exact location is currently being determined. This page will soon be updated with the final venue.
 
 We'll be playing in the afternoon/evening.
 
-Hope to see you there!
+We hope to see you there!

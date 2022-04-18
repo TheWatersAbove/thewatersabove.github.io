@@ -1,5 +1,5 @@
 # Core
 
-* Mobile-friendly layout
+* Mobile: Make nav bar responsive
 * Favicon
 * Overhaul logo
