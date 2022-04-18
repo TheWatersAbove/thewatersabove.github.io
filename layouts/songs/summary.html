@@ -14,8 +14,8 @@
             <div class="song-data-icons">
 
               <i class="song-data-icon fa fa-file-text-o"></i>
-              {{ if .Params.hasAudio }}
-              <i class="song-data-icon fa fa-music"></i>
+              {{ if .Params.SoundCloudTrackId }}
+                <i class="song-data-icon fa fa-music"></i>
               {{ end }}
 
               {{ if .Params.VideoUrl }}

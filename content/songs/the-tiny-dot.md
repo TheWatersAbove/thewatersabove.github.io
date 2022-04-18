@@ -8,7 +8,6 @@ videoUrl: https://youtu.be/ubD7Q_TmQQI
 soundCloudTrackId: 1243395769
 soundCloudUrl: https://soundcloud.com/user-588674773/the-tiny-dot
 youtubeId: ubD7Q_TmQQI
-hasAudio: true
 draft: false
 ---
 
