@@ -10,8 +10,10 @@ draft: false
 
 The event will include literature, music, comedy, and lectures. If you lean towards libertarianism, anarcho-capitalism, or your friends call you a "conspiracy theorist," you will be right at home.
 
-Exact location is currently being determined. This page will soon be updated with the final venue.
-
 We'll be playing in the afternoon/evening.
+
+Exact location is currently being determined. 
+
+This page will soon be updated with the exact venue and time.
 
 We hope to see you there!
