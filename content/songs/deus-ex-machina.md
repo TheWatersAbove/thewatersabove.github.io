@@ -103,7 +103,9 @@ Get the chip for work or you'll be out-done.
 
 I was first in line, nearly worked at the firm,  
 But I learned about the plan, and I started to squirm:  
-*Morpheus:* Side-effects may include the loss of free will.  
+
+*Morpheus:*  
+Side-effects may include the loss of free will.  
 Now tell me, are you in or you want the red pill?  
 
 ## Outro
