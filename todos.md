@@ -1,5 +1,8 @@
 # Core
 
-* Mobile: Make nav bar responsive
 * Favicon
-* Overhaul logo
+* Mobile: Make nav bar responsive
+
+# Show Detail
+
+* Show Date
