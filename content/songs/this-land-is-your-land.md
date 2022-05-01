@@ -5,6 +5,8 @@ composer: Woody Guthrie
 lyricist: David Y. Kay
 blurb: Like freedom? Beware United Nations Agenda 21.
 draft: false
+soundCloudTrackId: 1260536353
+soundCloudUrl: https://soundcloud.com/user-588674773/this-land-is-your-land-agenda-21-edition
 ---
 
 ## Verse 1 - Establish
